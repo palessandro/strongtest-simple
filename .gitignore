@@ -1,0 +1,9 @@
+/target/
+/.project
+/.settings/
+/.classpath
+/simple-bin.zip
+/simple-lib.zip
+/simple-source.zip
+/simple-testbin.zip
+/test.json
